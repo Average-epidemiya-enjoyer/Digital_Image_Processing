@@ -20,3 +20,11 @@ engine.py: Contains training functions.
 model_builder.py: Creates PyTorch models.   
 train.py: Trains a PyTorch model using the other scripts.   
 utils.py: Provides utility functions.
+
+Lab №6
+
+There were no exercises in assignment 6, so this file will not be in the repo since it was done in class
+
+Lab №8
+
+At the end of the laboratory, regularization methods are presented that can be considered in more detail.
